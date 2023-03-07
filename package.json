@@ -1,6 +1,6 @@
 {
 	"name": "tylerb-nativescript-firebase-admob",
-	"version": "2.5.3",
+	"version": "2.5.4",
 	"license": "MIT",
 	"scripts": {
 		"postinstall": "husky install && npx ts-patch install",
